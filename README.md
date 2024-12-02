@@ -79,4 +79,4 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 - Digite a senha configurada para acessar a interface e controlar o portão.
 
 ### 📹 Demonstração:
-Confira o sistema em ação neste vídeo: link para o vídeo.
+Confira o sistema em ação neste vídeo: https://www.linkedin.com/posts/ryan-leite-bezerra-307990290_iot-esp32-automaaexaetoresidencial-activity-7269346227954098177-lICY?utm_source=share&utm_medium=member_desktop.
