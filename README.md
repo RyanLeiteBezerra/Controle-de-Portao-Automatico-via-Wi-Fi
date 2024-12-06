@@ -12,12 +12,15 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 
 ### ⚙️ Componentes Utilizados no Circuito
 
-- ESP32: Microcontrolador principal responsável pela lógica do sistema e pelo servidor web.
-- Módulo Receptor RF 433 MHz: Para captar o código do controle remoto original.
-- Módulo Transmissor RF 433 MHz: Para enviar o código do controle e acionar o portão.
-- Resistores e Divisor de Tensão: Para adaptar os níveis de tensão entre os componentes.
+- **ESP32:** Microcontrolador principal responsável pela lógica do sistema e pelo servidor web.
+- **Módulo Receptor RF 433 MHz:** Para captar o código do controle remoto original.
+- **Módulo Transmissor RF 433 MHz:** Para enviar o código do controle e acionar o portão.
+- **Divisores de Tensão usando Resistores:** Para adaptar os níveis de tensão entre os componentes.
 
-![Esquema do circuito](https://github.com/user-attachments/assets/16d6d56b-c266-4331-ae3f-e09edd78a1dd)
+  1. Divisor de Tensão para o Receptor: Resistores de 1kΩ e 2kΩ
+  2. Divisor de Tensão para o Transmissor: Resistores de 2kΩ e 510Ω
+
+![Circuito](https://github.com/user-attachments/assets/635d8fbb-c83c-40f9-afac-c82411806f90)
 
 ### 🖥️ Como Funciona:
 
