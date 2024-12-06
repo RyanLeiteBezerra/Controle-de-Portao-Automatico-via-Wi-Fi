@@ -10,7 +10,6 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 - Comunicação RF: Captação e envio do código do controle remoto original usando o protocolo RF 433 MHz.
 - Personalização: Fácil adaptação para outros dispositivos ou controles que utilizem a mesma frequência.
 
-
 ### ⚙️ Componentes Utilizados
 
 - ESP32: Microcontrolador principal responsável pela lógica do sistema e pelo servidor web.
@@ -18,6 +17,7 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 - Módulo Transmissor RF 433 MHz: Para enviar o código do controle e acionar o portão.
 - Resistores e Divisor de Tensão: Para adaptar os níveis de tensão entre os componentes.
 
+![Esquema do circuito](https://github.com/user-attachments/assets/16d6d56b-c266-4331-ae3f-e09edd78a1dd)
 
 ### 🖥️ Como Funciona:
 
@@ -79,4 +79,4 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 - Digite a senha configurada para acessar a interface e controlar o portão.
 
 ### 📹 Demonstração:
-Confira o sistema em ação neste vídeo: https://www.linkedin.com/posts/ryan-leite-bezerra-307990290_iot-esp32-automaaexaetoresidencial-activity-7269346227954098177-lICY?utm_source=share&utm_medium=member_desktop.
+https://github.com/user-attachments/assets/cfdc385f-300b-4ace-ab6a-f54b02e6c981
