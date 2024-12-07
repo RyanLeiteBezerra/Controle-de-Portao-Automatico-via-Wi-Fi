@@ -22,22 +22,20 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 
 ![Circuito](https://github.com/user-attachments/assets/635d8fbb-c83c-40f9-afac-c82411806f90)
 
-### 🖥️ Como Funciona:
+### 🖥️ Como Funciona
 
 1. O sistema capta o código do controle remoto original e o armazena.
 2. O ESP32 hospeda uma página web onde é necessário inserir uma senha para autenticação.
 3. Após a autenticação, o usuário pode acionar o portão clicando em um botão na interface web.
 4. O módulo transmissor RF envia o código captado, simulando o controle remoto.
 
-
-### 🧩 Requisitos:
+### 🧩 Requisitos
 
 - Arduino IDE configurado para ESP32.
 - Biblioteca RCSwitch.
 - Acesso a uma rede Wi-Fi.
 
-
-### 🚀 Como Usar:
+### 🚀 Como Usar
 
 1. **Clone este repositório**
 
@@ -81,11 +79,11 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 - No navegador, insira o endereço IP exibido no Monitor Serial.
 - Digite a senha configurada para acessar a interface e controlar o portão.
 
-### 📹 Demonstração:
+### 📹 Etapas do Projeto
 https://github.com/user-attachments/assets/cfdc385f-300b-4ace-ab6a-f54b02e6c981
 
 
-### 🍎 Atalho no IPhone / Apple Watch:
+### 🍎 Atalho no IPhone / Apple Watch
 
 1. **Abra o aplicativo "Atalhos" no iPhone**
 
@@ -118,10 +116,10 @@ https://github.com/user-attachments/assets/cfdc385f-300b-4ace-ab6a-f54b02e6c981
 
 7. **Adicione o atalho ao Apple Watch (opcional):**
 
-- Abra o aplicativo Atalhos no iPhone.
-- Toque no atalho criado ("Abrir Portão").
+- Abra o aplicativo **Atalhos** no iPhone.
+- Toque no atalho criado **("Abrir Portão")**.
 - Toque nos três pontos no canto superior direito do atalho.
-- Role para baixo até encontrar a opção "Mostrar no Apple Watch" e ative-a.
+- Role para baixo até encontrar a opção **"Mostrar no Apple Watch"** e ative-a.
 - Certifique-se de que o Apple Watch está sincronizado com o iPhone.
 
 8. **Adicione o atalho à tela inicial (opcional):**
