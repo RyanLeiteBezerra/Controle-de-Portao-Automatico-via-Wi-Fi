@@ -83,3 +83,45 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 
 ### 📹 Demonstração:
 https://github.com/user-attachments/assets/cfdc385f-300b-4ace-ab6a-f54b02e6c981
+
+### 🍎 Atalho no IPhone / Apple Watch:
+
+1. **Abra o aplicativo "Atalhos" no iPhone**
+
+2. **Crie um novo atalho:**
+- Toque no botão "+" no canto superior direito para adicionar um novo atalho.
+- Clique em **"Adicionar Ação"**.
+
+3. **Escolha a ação "Expandir URL":**
+
+- No campo de busca, digite **"URL"** e selecione a opção **"Expandir URL"**.
+- Insira a URL para abrir o portão: (URL do Site)/abrir
+  Ex: 
+
+Adicione uma ação "Abrir URL":
+
+Toque no botão "+" abaixo da primeira ação.
+Pesquise por "Abrir URL" e adicione.
+Certifique-se de que a URL expandida será aberta por essa ação.
+Renomeie o atalho:
+
+Toque no ícone de três pontos no topo da tela.
+Digite o nome desejado, como "Abrir Portão".
+Opcional: escolha um ícone ou cor para personalizar o atalho.
+Teste o atalho:
+
+Toque no atalho criado para verificar se o portão é acionado corretamente.
+Se tudo estiver configurado corretamente, o portão será acionado automaticamente ao executar o atalho.
+Adicione o atalho ao Apple Watch (opcional):
+
+Abra o aplicativo Atalhos no iPhone.
+Toque no atalho criado ("Abrir Portão").
+Toque nos três pontos no canto superior direito do atalho.
+Role para baixo até encontrar a opção "Mostrar no Apple Watch" e ative-a.
+Certifique-se de que o Apple Watch está sincronizado com o iPhone.
+Adicione o atalho à tela inicial (opcional):
+
+Clique no ícone de três pontos no atalho.
+Selecione "Adicionar à Tela de Início" para criar um ícone diretamente acessível.
+
+
