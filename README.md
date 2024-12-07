@@ -126,3 +126,6 @@ https://github.com/user-attachments/assets/cfdc385f-300b-4ace-ab6a-f54b02e6c981
 
 - Clique no ícone de três pontos no atalho.
 - Selecione **"Adicionar à Tela de Início"** para criar um ícone diretamente acessível.
+
+### 📹 Funcionamento do Atalho
+https://github.com/user-attachments/assets/5850d650-0c2a-46c9-8189-3c8e72041c35
