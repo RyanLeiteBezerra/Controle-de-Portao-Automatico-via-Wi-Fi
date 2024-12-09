@@ -18,7 +18,7 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 - **Divisores de Tensão usando Resistores:** Para adaptar os níveis de tensão entre os componentes.
 
   1. Divisor de Tensão para o Receptor: Resistores de 1kΩ e 2kΩ
-  2. Divisor de Tensão para o Transmissor: Resistores de 2kΩ e 510Ω
+  2. Divisor de Tensão para o Transmissor: Resistores de 1kΩ e 2kΩ
 
 ![Circuito](https://github.com/user-attachments/assets/635d8fbb-c83c-40f9-afac-c82411806f90)
 
