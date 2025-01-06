@@ -52,21 +52,21 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 - Substitua as variáveis code, length e protocol pelas informações capturadas.
 
 - Exemplo:
-
+  ``````cpp
   mySwitch.send(162020133, 28); // Substitua pelos seus valores
-  
   mySwitch.setPulseLength(508); // Substitua pelo comprimento de pulso capturado
-  
   mySwitch.setProtocol(6); // Substitua pelo protocolo capturado
+  ``````
 
 4. **Configure o Wi-Fi:**
 
 - No mesmo código do transmissor, insira o SSID e a senha da sua rede Wi-Fi.
 - Exemplo:
-
-  const char* ssid = "NOME_DA_SUA_REDE";
-   
-  const char* password = "SENHA_DA_SUA_REDE";
+  
+  ``````cpp
+    const char* ssid = "NOME_DA_SUA_REDE";
+    const char* password = "SENHA_DA_SUA_REDE";
+  ``````
   
 5. **Carregue o código no ESP32:**
 
