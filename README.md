@@ -64,8 +64,8 @@ Este projeto combina IoT, comunicação RF e automação para controlar um port�
 - Exemplo:
   
   ``````cpp
-    const char* ssid = "NOME_DA_SUA_REDE";
-    const char* password = "SENHA_DA_SUA_REDE";
+  const char* ssid = "NOME_DA_SUA_REDE";
+  const char* password = "SENHA_DA_SUA_REDE";
   ``````
   
 5. **Carregue o código no ESP32:**
@@ -96,7 +96,7 @@ https://github.com/user-attachments/assets/cfdc385f-300b-4ace-ab6a-f54b02e6c981
 - No campo de busca, digite **"URL"** e selecione a opção **"Expandir URL"**.
 - Insira a URL para abrir o portão:
   ``````cpp
-    http://<IP exibido no Monitor Serial>/abrir
+  http://<IP exibido no Monitor Serial>/abrir
   ``````
 
 4. **Adicione uma ação "Abrir URL":**
