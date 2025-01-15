@@ -94,8 +94,10 @@ https://github.com/user-attachments/assets/cfdc385f-300b-4ace-ab6a-f54b02e6c981
 3. **Escolha a ação "Expandir URL":**
 
 - No campo de busca, digite **"URL"** e selecione a opção **"Expandir URL"**.
-- Insira a URL para abrir o portão: http://<**IP exibido no Monitor Serial**>/abrir
-
+- Insira a URL para abrir o portão:
+  ``````cpp
+    http://<IP exibido no Monitor Serial>/abrir
+  ``````
 
 4. **Adicione uma ação "Abrir URL":**
 
